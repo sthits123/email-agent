@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "email_assistant": "email_assistant.main:email_assistant"
+  },
+  "env": ".env"
+}
